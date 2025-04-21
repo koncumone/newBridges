@@ -1,0 +1,24 @@
+{
+  "name": "newbridges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@metaplex-foundation/mpl-token-metadata": "^3.3.0",
+    "@solana/spl-token": "^0.4.9",
+    "@solana/web3.js": "^1.98.0",
+    "@triton-one/yellowstone-grpc": "^2.0.0",
+    "@wormhole-foundation/sdk": "^1.4.4",
+    "axios": "^1.7.9",
+    "mysql2": "^3.12.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "sequelize": "^6.37.5",
+    "ws": "^8.18.0"
+  }
+}
